@@ -20,9 +20,9 @@ The project leverages open-source datasets from Instacart, complemented by speci
 -  [Instacart Data Sets](https://www.instacart.com/datasets/grocery-shopping-2017) -
 
 # Stakeholders
-    The Vice President of Marketing
-    The Senior Vice President of Sales
-    Instacart Customers
+- The Vice President of Marketing
+- The Senior Vice President of Sales
+- Instacart Customers
 
 Stakeholders want to enhance targeting for ad campaigns, understand which part of the offering has the lowest market share, and why, in order to improve and boost sales. Additionally, Instacart customers desire to receive ads, promotions, and recommendations that are relevant to the products they order regularly.
 
