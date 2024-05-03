@@ -17,7 +17,7 @@ As a data analyst, my objective is to analyze the variety of customers in Instac
 
 # Data Source
 The project leverages open-source datasets from Instacart, complemented by specially created customer datasets. These resources are integral to addressing the outlined business questions.
--  [Instacart Data Sets](https://www.instacart.com/datasets/grocery-shopping-2017) -
+-  [Instacart Data Sets](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 # Stakeholders
 - The Vice President of Marketing
